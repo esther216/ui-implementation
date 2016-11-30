@@ -1,0 +1,10 @@
+
+.ui.container.page{
+  position: relative;
+}
+.ui.segment.main-header{
+  margin-top: 1em;
+}
+.ui.inverted.block.header{
+  background-color: #2185D0;
+}
