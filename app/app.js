@@ -1,6 +1,6 @@
 (function(){
 	
-	var dataUrl= "JSON-Airports/airports.json";
+	var dataUrl= "../JSON-Airports/airports.json";
 
 	var ajax= {};
 
